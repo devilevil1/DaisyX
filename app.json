@@ -1,16 +1,16 @@
 {
-  "name": "DaisyX",
+  "name": "AASHU",
   "description": "?",
   "keywords": [
     "telegram",
-    "Daisy",
+    "Aashu",
     "plugin",
     "telegram-DaisyX",
     "fuck-TG"
   ],
-  "repository": "https://github.com/TeamDaisyX/DaisyX",
+  "repository": "https://github.com/devilevil1/DaisyX",
   "website": "daisyproject.studio",
-  "success_url": "t.me/DaisyXUpdates",
+  "success_url": "t.me/redhatgroup",
   "buildpacks": [
    {
      "url": "https://github.com/jonathanong/heroku-buildpack-ffmpeg-latest"
