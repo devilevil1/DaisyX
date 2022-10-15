@@ -2,9 +2,9 @@
 echo "
 *********** STARTING DEPLOY ***********
 
-DAISYX v2 -Base Aiogram
-(C) 2020-2021 by @TEAMDAISYX
-Support Chat is @DAISYSUPPORT_OFFICIAL.
+AASHU v2 -Base Aiogram
+(C) 2020-2021 by @REDHATGROUP
+Support Chat is @REDHATGROUP.
 
 ***************************************
 "
@@ -30,15 +30,15 @@ ech_final () {
     echo "
     
 =++---------------------------------------------++=
-DAISYX. Deployed Successfully
+AASHU. Deployed Successfully
 
  ***************************
- * |D| |A| |I| |S| |Y| |X| *
+ * |A| |A| |S| |H| |U| *
  ******************* v2.0 ** 
 
-Thanks for deploying DaisyX
-(C) 2020-2021 by @TEAMDAISYX
-Support Chat is @DAISYSUPPORT_OFFICIAL.
+Thanks for deploying AASHU
+(C) 2020-2021 by @REDHATGROUP
+Support Chat is @REDHATGROUP.
 =++---------------------------------------------++=
                        Greetings from dev team :)
     "
